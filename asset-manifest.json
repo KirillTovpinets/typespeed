@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/typespeed/static/css/main.5f6d2172.chunk.css",
+    "main.js": "/typespeed/static/js/main.0c6ecbb2.chunk.js",
+    "main.js.map": "/typespeed/static/js/main.0c6ecbb2.chunk.js.map",
+    "runtime-main.js": "/typespeed/static/js/runtime-main.b3147d48.js",
+    "runtime-main.js.map": "/typespeed/static/js/runtime-main.b3147d48.js.map",
+    "static/css/2.150d169a.chunk.css": "/typespeed/static/css/2.150d169a.chunk.css",
+    "static/js/2.f4e168de.chunk.js": "/typespeed/static/js/2.f4e168de.chunk.js",
+    "static/js/2.f4e168de.chunk.js.map": "/typespeed/static/js/2.f4e168de.chunk.js.map",
+    "static/js/3.89cd4d94.chunk.js": "/typespeed/static/js/3.89cd4d94.chunk.js",
+    "static/js/3.89cd4d94.chunk.js.map": "/typespeed/static/js/3.89cd4d94.chunk.js.map",
+    "index.html": "/typespeed/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/typespeed/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.5f6d2172.chunk.css.map": "/typespeed/static/css/main.5f6d2172.chunk.css.map",
+    "static/js/2.f4e168de.chunk.js.LICENSE.txt": "/typespeed/static/js/2.f4e168de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3147d48.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.f4e168de.chunk.js",
+    "static/css/main.5f6d2172.chunk.css",
+    "static/js/main.0c6ecbb2.chunk.js"
+  ]
+}
