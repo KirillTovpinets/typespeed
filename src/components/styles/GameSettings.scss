@@ -1,0 +1,13 @@
+.game-setting{
+	display: flex;
+	&__lang-select{
+		background: transparent;
+		border: none;
+		margin-right: 1rem;
+		color: #fff;
+
+		&:focus{
+			background: transparent;
+		}
+	}
+}
